@@ -1,0 +1,21 @@
+{
+    "name": "falixnodes_miner",
+    "version": "1.0.0",
+    "description": "Mine FalixCoins",
+    "bin": "index.js",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "fs": "*",
+      "os": "^0.1.1",
+      "shelljs": "^0.8.4",
+      "util": "^0.12.3"
+    }
+  }
+  
